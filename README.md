@@ -1,8 +1,10 @@
-Languages (Temporary name)
+Languages*
 ==========================
 This is the first project that we are doing together. It will be a free, intuitive website that allows a user to learn a language of their choice.
 
 The first languages that we're going to be doing are Korean and Japanese.
+
+*This is a temporary name.
 
 How it'll work
 ------------------------
