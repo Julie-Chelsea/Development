@@ -18,4 +18,5 @@ After that, the user will be able to select different methods of learning. Curre
 We will be doing research to decide how and when to test users and have them review previous material. And to decide how to reward the user for their successes.
 
 Note that the current URL will only be used until we make significant progress in our project, and find a name for it. Then we will get a URL that's dedicated to it.
+
 (More to come later)
