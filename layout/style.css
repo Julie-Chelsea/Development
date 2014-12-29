@@ -1,0 +1,125 @@
+/*Layout*/
+
+
+/*Top bar*/
+  core-toolbar{
+    background-color: #09bcd4;
+    color: white;
+  }
+
+
+/*Text*/
+  h1.display4{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 112px;
+    font-weight: 300;
+    margin-top: 0;
+    margin-bottom: 0;
+    letter-spacing: -8px;
+    opacity: 0.54;
+    color:;
+  }
+  
+  h1{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 56px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+    opacity: 0.54;
+    color:;
+  }
+  
+  h2{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 45px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+    opacity: 0.54;
+    color:;
+  }
+  
+  h3{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 34px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+    opacity: 0.54;
+    color:;
+  }
+  
+  h4{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+    opacity: 0.87;
+    color:;
+  }
+  
+  h5{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 0;
+    opacity: 0.95;
+    color:;
+  }
+  
+  h6{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+    opacity: 0.87;
+    color:;
+  }
+  
+  p{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+    opacity: 0.87;
+    color:;
+  }
+  
+  p.body2{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 0;
+    opacity: 0.87;
+    color:;
+  }
+  
+  p.caption{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+    opacity: 0.54;
+    color:;
+  }
+  
+  button{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 0;
+    opacity: 0.87;
+    color:;
+  }
+
+/*Images*/
+
+/*Etc*/
