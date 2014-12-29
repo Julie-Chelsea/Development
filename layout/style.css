@@ -6,7 +6,10 @@
     background-color: #09bcd4;
     color: white;
   }
-
+  a.linktitle:link, a.linktitle:visited, a.linktitle:active, a.linktitle:hover{
+    color: white;
+    text-decoration: none;
+  }
 
 /*Text*/
   h1.display4{
@@ -90,7 +93,7 @@
     color:;
   }
   
-  p.body2{
+  .body2{
     font-family: 'Roboto', 'Noto', sans-serif;
     font-size: 13px;
     font-weight: 500;
@@ -100,7 +103,7 @@
     color:;
   }
   
-  p.caption{
+  .caption{
     font-family: 'Roboto', 'Noto', sans-serif;
     font-size: 12px;
     font-weight: 400;
@@ -110,12 +113,10 @@
     color:;
   }
   
-  button{
+  paper-button{
     font-family: 'Roboto', 'Noto', sans-serif;
     font-size: 14px;
     font-weight: 500;
-    margin-top: 0;
-    margin-bottom: 0;
     opacity: 0.87;
     color:;
   }
