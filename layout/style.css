@@ -5,9 +5,11 @@
     float: left;
     left: 70px;
     background-color:;
-    width: 750px;
+    width: 600px;
   }
   .right{
+    position: relative;
+    left: 150px;
     float: left;
   }
   
@@ -38,14 +40,19 @@
   }
 
   /*Showcase*/
-    #scc1{margin-top: 60px; background-color: #66499e;}
+    #scc1{
+      margin-top: 60px;
+      background-color: #66499e;
+      }
     #scc2{background-color: #4cae4e;}
     #scc3{background-color: #e71f63;}
     #scc4{background-color: #f8971c;}
     #scc5{background-color: #38a4dc;}
 
     #signup{
-      color: #b8d54a;
+      font-size: 24px;
+      background-color: #b8d54a;
+      color: white;
     }
 
 /*Top bar*/
@@ -200,17 +207,20 @@
     margin-bottom: 15px;
   }
 
-/*Elements*/
-  paper-button{
-    font-family: 'Roboto', 'Noto', sans-serif;
-    font-size: 14px;
-    font-weight: 500;
-    opacity:;
-    color:;
 
+/*Elements*/
   /*Polymer-UI*/
     polymer-ui-card{
       display: block;
       width: 352px;
       height: 198px;
+    }
+
+  /*Paper*/
+    paper-button{
+      font-family: 'Roboto', 'Noto', sans-serif;
+      font-size: 14px;
+      font-weight: 500;
+      opacity:;
+      color:;
     }
