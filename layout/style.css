@@ -46,7 +46,9 @@
     #scc5{background-color: #38a4dc;}
 
     #signup{
-      color: #b8d54a;
+      font-size: 16pt;
+      background-color: #b8d54a;
+      color: white;
     }
 
 /*Top bar*/
@@ -66,6 +68,16 @@
   }
 
 /*Text*/
+  a:link, a:visited {
+    color: #b8d54a;
+    text-decoration: none;
+  }
+
+  a:hover, a:active{
+    color: #09bcd3;
+    text-decoration: underline;
+  }
+
   ::selection{
     background: #b6e2eb;
   }
@@ -208,6 +220,7 @@
     font-weight: 500;
     opacity:;
     color:;
+  }
 
   /*Polymer-UI*/
     polymer-ui-card{
