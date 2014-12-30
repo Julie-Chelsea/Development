@@ -33,24 +33,19 @@
     display: none;
   }
 
-  core-drawer-panel:not([narrow]) h5 {
+  core-drawer-panel:not([narrow]) .linktitle {
     margin-left: 54px;
   }
 
   /*Showcase*/
-    #scc1{
-      margin-top: 60px;
-      background-color: #66499e;
-      }
+    #scc1{margin-top: 60px; background-color: #66499e;}
     #scc2{background-color: #4cae4e;}
     #scc3{background-color: #e71f63;}
     #scc4{background-color: #f8971c;}
     #scc5{background-color: #38a4dc;}
 
     #signup{
-      font-size: 24px;
-      background-color: #b8d54a;
-      color: white;
+      color: #b8d54a;
     }
 
 /*Top bar*/
@@ -205,20 +200,17 @@
     margin-bottom: 15px;
   }
 
-
 /*Elements*/
+  paper-button{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    opacity:;
+    color:;
+
   /*Polymer-UI*/
     polymer-ui-card{
       display: block;
       width: 352px;
       height: 198px;
-    }
-
-  /*Paper*/
-    paper-button{
-      font-family: 'Roboto', 'Noto', sans-serif;
-      font-size: 14px;
-      font-weight: 500;
-      opacity:;
-      color:;
     }
