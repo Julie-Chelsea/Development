@@ -2,45 +2,30 @@
   div.main{
     position: relative;
     display: inline-block;
-    left: 10%;
-    width: 50%;
-  }
-
-  div.showcase{
-    display: inline-block;
-    position: absolute;
-    top: 35px;
-    left: 110%;
+    left: 70px;
+    width: 1000px;
   }
 
   /*Showcase*/
-    .showcaseCard{
-
-    }
-
     #scc1{
-
     }
 
     #scc2{
-
     }
 
     #scc3{
-
     }
 
     #scc4{
-
     }
 
     #scc5{
-
     }
 
     #signup{
       color: #b8d54a;
     }
+    
 /*Top bar*/
   core-toolbar{
     background-color: #09bcd4;
@@ -102,7 +87,7 @@
     font-family: 'Roboto', 'Noto', sans-serif;
     font-size: 24px;
     font-weight: 400;
-    margin-top: 0;
+    margin-top: 20px;
     margin-bottom: 20px;
     opacity:;
     color:;
@@ -113,7 +98,7 @@
     font-size: 20px;
     font-weight: 500;
     margin-top: 0;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
     opacity:;
     color:;
   }
