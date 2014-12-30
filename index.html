@@ -28,60 +28,84 @@
 
 	<!--Styling-->
 		<link rel="import" href="components/polymer/polymer.html">
+		<link rel="import" href="components/polymer-ui-card/polymer-ui-card.html">
 		<link rel="import" href="components/core-elements/core-elements.html">
 		<link rel="import" href="components/paper-elements/paper-elements.html">
 		<link rel="stylesheet" type="text/css" href="layout/style.css">
 		<link rel="icon" href="FAVICON HERE" type="image/png" sizes="16x16">
 		<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-		<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>		
-  		<script src="javascript.js"></script>
+		<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>	
+		<style>
+  			polymer-ui-card{
+  				display: block;
+  				background-color: red;
+  				width: 352px;
+  				height: 198px;
+  			}
+  		</style>	
 </head>
 
 <body fullbleed>
-	<core-toolbar class="waterfall">
-		<paper-icon-button icon="menu"></paper-icon-button>
-		<div><h5><a href="http://chelseavalentinesday.com/languages" class="linktitle">Languages</a><h5></div>
-		<span flex></span>
-		<paper-button>SIGN UP</paper-button>
-		<paper-button>LOG IN</paper-button>
-	</core-toolbar>
-	<div main class="main">
-		<h4>Learn languages your way</h4>
-		<p><b>Name</b> offers you an intuitive and free solution to learning languages. We match you to words and phrases that are most relevant to you, and have several resources available to best fit your learning style.</p>
+<core-drawer-panel>
+	<core-header-panel drawer>
+	 	<core-toolbar>
+ 			<span>Menu</span>
+ 		</core-toolbar>
 
-		<p>You no longer have to think about whether you have learned something sufficiently, because we use research to ensure that you master the material, and to decide when to remind you to review previous content.</p>
+ 		<core-menu>
+ 			<core-item label="One"></core-item>
+ 			<core-item label="Two"></core-item>
+ 		</core-menu>
+ 	</core-header-panel>
 
-		<p>Don't worry about what to learn next, because we have you covered. And if you choose, you can modify your learning path to better fit your needs.</p>
+ 	<core-header-panel main>
+		<core-toolbar class="mainheader waterfall">
+			<paper-icon-button icon="menu"></paper-icon-button>
+			<div><h5><a href="http://chelseavalentinesday.com/languages" class="linktitle">Languages</a></h5></div>
+			<span flex></span>
+			<paper-button>SIGN UP</paper-button>
+			<paper-button>LOG IN</paper-button>
+		</core-toolbar>
+		<div class="main">
+				<h4>Learn languages your way</h4>
+				<p><b>Name</b> offers you an intuitive and free solution to learning languages. We match you to words and phrases that are most relevant to you, and have several resources available to best fit your learning style.</p>
 
-		<p>Gain a deep understanding of a language by signing up with <b>Name</b>.</p>
+				<p>You no longer have to think about whether you have learned something sufficiently, because we use research to ensure that you master the material, and to decide when to remind you to review previous content.</p>
 
-		<p>We currently offer:
-			<ul>
-				<li>Korean</li>
-				<li>Japanese</li>
-			</ul>
-		</p>
-		<paper-button raised id="signup">Sign up</paper-button>
+				<p>Don't worry about what to learn next, because we have you covered. And if you choose, you can modify your learning path to better fit your needs.</p>
 
-		<div class="showcase">
-			<polymer-ui-card class="showcaseCard" id="scc1"></polymer-ui-card>
-			<p class="body2">Learn</p>
+				<p>Gain a deep understanding of a language by signing up with <b>Name</b>.</p>
 
-			<polymer-ui-card  class="showcaseCard" id="scc2"></polymer-ui-card>
-			<p class="body2">Learn</p>
+				<p>We currently offer:
+					<ul>
+						<li>Korean</li>
+						<li>Japanese</li>
+					</ul>
+				</p>
 
-			<polymer-ui-card  class="showcaseCard" id="scc3"></polymer-ui-card>
-			<p class="body2">Learn</p>
+				<polymer-ui-card id="scc1"></polymer-ui-card>
+				<p class="body2">Animations teach you vocabulary!</p>
 
-			<polymer-ui-card  class="showcaseCard" id="scc4"></polymer-ui-card>
-			<p class="body2">Learn</p>
+				<img src="layout/showcasetile.svg" id="scc2"></img>
+				<p class="body2">Practice your spelling!</p>
 
-			<polymer-ui-card  class="showcaseCard" id="scc5"></polymer-ui-card>
-			<p class="body2">Learn</p>
-		</div>
-	</div>
-	<footer>
+				<img src="layout/showcasetile.svg" id="scc3"></img>
+				<p class="body2">Quiz yourself with flashcards!</p>
+
+				<img src="layout/showcasetile.svg" id="scc4"></img>
+				<p class="body2">Take a break with shows from the country!</p>
+
+				<img src="layout/showcasetile.svg" id="scc5"></img>
+				<p class="body2">Test your knowledge!</p>
+
+				<center><paper-button raised id="signup">SIGN UP</paper-button></center>
+		<footer>
 	    <p class="p3"><center>Julie Pan & Chelsea Valentine © 2014</center></p>
 	</footer>
+		</div>
+	</core-header-panel>
+	</core-drawer-panel>
+	
+</core-drawer-panel>
 </body>  
 </html>
