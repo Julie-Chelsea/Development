@@ -33,48 +33,42 @@
 		<link rel="import" href="components/paper-elements/paper-elements.html">
 		<link rel="stylesheet" type="text/css" href="layout/style.css">
 		<link rel="icon" href="FAVICON HERE" type="image/png" sizes="16x16">
-		<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-		<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>	
-		<style>
-  			polymer-ui-card{
-  				display: block;
-  				background-color: red;
-  				width: 352px;
-  				height: 198px;
-  			}
-  		</style>	
+		<script src="layout/js.js"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 </head>
 
 <body fullbleed>
-<core-drawer-panel>
+<core-drawer-panel id="drawerPanel">
 	<core-header-panel drawer>
-	 	<core-toolbar>
- 			<span>Menu</span>
+	 	<core-toolbar id="navheader">
+ 			<span><h5>Menu</h5></span>
  		</core-toolbar>
 
  		<core-menu>
  			<core-item label="One"></core-item>
  			<core-item label="Two"></core-item>
  		</core-menu>
+
+ 		<footer>
+	    	<p><center>Julie Pan & Chelsea Valentine © 2014</center></p>
+		</footer>
  	</core-header-panel>
 
  	<core-header-panel main>
-		<core-toolbar class="mainheader waterfall">
-			<paper-icon-button icon="menu"></paper-icon-button>
+		<core-toolbar class="waterfall mainheader">
+			<paper-icon-button icon="menu" id="navicon"></paper-icon-button>
 			<div><h5><a href="http://chelseavalentinesday.com/languages" class="linktitle">Languages</a></h5></div>
 			<span flex></span>
 			<paper-button>SIGN UP</paper-button>
-			<paper-button>LOG IN</paper-button>
+			<paper-button>LOGIN</paper-button>
 		</core-toolbar>
 		<div class="main">
-				<h4>Learn languages your way</h4>
+			<h4>Learn languages your way</h4>
 				<p><b>Name</b> offers you an intuitive and free solution to learning languages. We match you to words and phrases that are most relevant to you, and have several resources available to best fit your learning style.</p>
 
 				<p>You no longer have to think about whether you have learned something sufficiently, because we use research to ensure that you master the material, and to decide when to remind you to review previous content.</p>
 
 				<p>Don't worry about what to learn next, because we have you covered. And if you choose, you can modify your learning path to better fit your needs.</p>
-
-				<p>Gain a deep understanding of a language by signing up with <b>Name</b>.</p>
 
 				<p>We currently offer:
 					<ul>
@@ -83,26 +77,48 @@
 					</ul>
 				</p>
 
-				<polymer-ui-card id="scc1"></polymer-ui-card>
-				<p class="body2">Animations teach you vocabulary!</p>
-
-				<img src="layout/showcasetile.svg" id="scc2"></img>
-				<p class="body2">Practice your spelling!</p>
-
-				<img src="layout/showcasetile.svg" id="scc3"></img>
-				<p class="body2">Quiz yourself with flashcards!</p>
-
-				<img src="layout/showcasetile.svg" id="scc4"></img>
-				<p class="body2">Take a break with shows from the country!</p>
-
-				<img src="layout/showcasetile.svg" id="scc5"></img>
-				<p class="body2">Test your knowledge!</p>
-
 				<center><paper-button raised id="signup">SIGN UP</paper-button></center>
-		<footer>
-	    <p class="p3"><center>Julie Pan & Chelsea Valentine © 2014</center></p>
-	</footer>
+				<br><br>
+
+			<h4><b>Name</b> is (clearly) coming soon!</h4>
+				<p><a href="http://ycp217.github.io" target="_blank">Julie</a> and <a href="http://chelseavalentinesday.com" target="_blank">Chelsea</a> began working on it on December 21st, 2014.<br><br>
+
+				<b>Name</b> is going to be powered by several things, which means that we're going to be learning, or advancing in, new programming languages and libraries. These are the some of the things that we will be powering <b>Name</b> with:
+					<ul>
+						<li>Polymer</li>
+						<li>Django</li>
+						<li>Python</li>
+						<li>MySQL</li>
+						<li>SQL</li>
+						<li>CSS Animations</li>
+						<li>jQuery</li>
+					</ul>
+				</p>
+
+			<h4>Interested in our progress?</h4>
+				<p>Once we learn a bit more of Django, we'll create a mailing list so that you can get key updates, such as when <b>Name</b> is launched, and when it actually is named. Until then, you can just see how <b>Name</b> morphs by visiting this URL.</p>
+
+				<p>You can also check out our GitHub repository to see our changes! Everything isn't uploaded/committed to it, primarily due to security reasons and if the content is just imported from somewhere else, but we still try to add as much as possible.</p>
+
+				<center><a href="https://github.com/Julie-Chelsea/Languages" target="_blank"> <paper-button>GitHub Repository</paper-button></a><center>
+
 		</div>
+		<div class="right">
+			<polymer-ui-card id="scc1"></polymer-ui-card>
+			<p class="body2">Animations teach you vocabulary!</p>
+
+			<polymer-ui-card id="scc2"></polymer-ui-card>
+			<p class="body2">Practice your spelling!</p>
+
+			<polymer-ui-card id="scc3"></polymer-ui-card>
+			<p class="body2">Quiz yourself with flashcards!</p>
+
+			<polymer-ui-card id="scc4"></polymer-ui-card>
+			<p class="body2">Take a break with educational entertainment!</p>
+
+			<polymer-ui-card id="scc5"></polymer-ui-card>
+			<p class="body2">Test your knowledge!</p>
+		</div>		
 	</core-header-panel>
 	</core-drawer-panel>
 	
