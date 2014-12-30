@@ -3,16 +3,28 @@
     position: relative;
     display: inline-block;
     left: 70px;
-    width: 1000px;
     background-color:;
+    width: 100%;
   }
+
+  core-menu{
+    display: inline-block;
+    background-color: #f9fafa;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    margin: 0;
+  }
+  
+  core-item{
+    margin-left: 16px;
 
   /* drawer is always visible on a wide screen 
       so menu button isn't required */
   core-drawer-panel:not([narrow]) #navicon {
     display: none;
   }
-  
+
   core-drawer-panel:not([narrow]) h5 {
     margin-left: 54px;
   }
@@ -132,6 +144,194 @@
     margin-top: 0;
     margin-bottom: 20px;
     max-width: 600px;
+    opacity:;
+    color:;
+  }
+  
+  p.body2{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 200%;
+    margin-top: 0;
+    margin-bottom: 20px;
+    opacity:;
+    color:;
+  }
+  
+  p.caption{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 20px;
+    opacity: 0.87;
+    color:;
+  }
+  
+  footer{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    text-align:center;
+    margin-top: 0;
+    margin-bottom: 30px;
+    opacity: 0.54;
+    color:;
+  }
+
+/*Special text*/
+  ul{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 40px;
+    opacity:;
+    color:;
+  }
+
+  li+li{
+    margin-bottom: 15px;
+  }
+
+/*Elements*/
+  paper-button{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    opacity:;
+    color:;
+  }
+
+/*Images*/
+
+/*Etc*/
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+  }
+
+  /*Showcase*/
+    #scc1{
+    }
+
+    #scc2{
+    }
+
+    #scc3{
+    }
+
+    #scc4{
+    }
+
+    #scc5{
+    }
+
+    #signup{
+      color: #b8d54a;
+    }
+    
+/*Top bar*/
+  core-toolbar.mainheader{
+    background-color: #09bcd4;
+    color: white;
+  }
+
+  core-toolbar{
+    background-color: #202020;
+    color: white;
+  }
+
+  a.linktitle:link, a.linktitle:visited, a.linktitle:active, a.linktitle:hover{
+    color: white;
+    text-decoration: none;
+  }
+
+/*Text*/
+  ::selection{
+    background: #b6e2eb;
+  }
+
+  h1.display4{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 112px;
+    font-weight: 300;
+    margin-top: 0;
+    margin-bottom: 20px;
+    letter-spacing: -8px;
+    opacity:;
+    color:;
+  }
+  
+  h1{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 56px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 20px;
+    opacity:;
+    color:;
+  }
+  
+  h2{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 45px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 20px;
+    opacity:;
+    color:;
+  }
+  
+  h3{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 34px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 20px;
+    opacity:;
+    color:;
+  }
+  
+  h4{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    opacity:;
+    color:;
+  }
+  
+  h5{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 0px;
+    opacity:;
+    color:;
+  }
+  
+  h6{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 20px;
+    opacity:;
+    color:;
+  }
+  
+  p{
+    font-family: 'Roboto', 'Noto', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 200%;
+    max-width: 650px;
+    margin-top: 0;
+    margin-bottom: 20px;
     opacity:;
     color:;
   }
