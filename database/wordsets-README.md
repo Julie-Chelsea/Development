@@ -28,7 +28,7 @@ Columns include:
 
 #####Category
 Let's use the following entries for categories:
-* **vocab**: Just individual words, such as ('Hello', 'Bye')
-* **phrases**: Self-explanatory, eg. Chelsea is awesome
-* **grammar**: Grammatical concepts (eg. conjugation)
-* **complex**: Vocab and phrases
+* **[v]ocab**: Just individual words, such as ('Hello', 'Bye')
+* **[p]hrases**: Self-explanatory, eg. Chelsea is awesome
+* **[g]rammar**: Grammatical concepts (eg. conjugation)
+* **[c]omplex**: Vocab and phrases
