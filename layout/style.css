@@ -99,7 +99,7 @@
     font-size: 56px;
     font-weight: 400;
     margin-top: 0;
-    margin-bottom: 20px;
+    margin-bottom: -10px;
     opacity:;
     color:;
   }
@@ -226,11 +226,9 @@
   /*Polymer-UI*/
     polymer-ui-card{
       display: inline-block;
-      background-color: #b6e2eb;
+      background-size: 350px 250px;
       width: 350px;
       height: 250px;
-      margin-left: 60px;
-      margin-bottom: 60px;
     }
 
     .hcard{
@@ -239,3 +237,30 @@
       height: 198px;
       margin: 0;
     }
+
+/*Word set layout*/
+  .words1{
+    width: 350px;
+    margin-right:70px;
+    float: left;
+  }
+  .words2{
+    width: 350px;
+    margin-right: 70px;
+    float: left;
+  }
+  .words3{
+    width: 350px;
+    float: left;
+  }
+
+  .word{
+    margin: 0;
+    font-size: 20pt;
+
+  }
+
+  p.def{
+    opacity: 0.8;
+    margin-bottom: 40px;
+  }
