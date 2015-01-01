@@ -3,12 +3,13 @@
     position: relative;
     display: inline-block;
     float: left;
+    top: 40px;
     left: 70px;
-    background-color:;
-    width: 750px;
+    margin-bottom: 200px;
   }
   
   .right{
+    margin-left:200px;;
     float: left;
   }
   
@@ -52,7 +53,7 @@
     }
 
 /*Top bar*/
-  core-toolbar.mainheader{
+  #mainheader{
     background-color: #09bcd4;
     color: white;
   }
@@ -69,7 +70,7 @@
 
 /*Text*/
   a:link, a:visited {
-    color: #b8d54a;
+    color: #8ec63e;
     text-decoration: none;
   }
 
@@ -79,7 +80,7 @@
   }
 
   ::selection{
-    background: #b6e2eb;
+    background: #e1f2f7;
   }
 
   h1.display4{
@@ -224,7 +225,17 @@
 
   /*Polymer-UI*/
     polymer-ui-card{
+      display: inline-block;
+      background-color: #b6e2eb;
+      width: 350px;
+      height: 250px;
+      margin-left: 60px;
+      margin-bottom: 60px;
+    }
+
+    .hcard{
       display: block;
       width: 352px;
       height: 198px;
+      margin: 0;
     }
