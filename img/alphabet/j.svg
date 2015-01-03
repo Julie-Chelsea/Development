@@ -6,9 +6,11 @@
 	<rect x="0.3" fill="#8EC73F" width="350" height="250"/>
 </g>
 <g id="Layer_4">
-	
-		<line fill="none" stroke="#FFFFFF" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="127" y1="82.5" x2="223" y2="82.5"/>
-	<path fill="none" stroke="#FFFFFF" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M123,164c51.5,0,52.6-74.8,52.6-74.8S179,164,227,164"/>
+	<g>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="127" y1="84.5" x2="223" y2="84.5"/>
+		<path fill="none" stroke="#FFFFFF" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M123,165.8c51.5,0,52.6-74.8,52.6-74.8s3.4,74.8,51.4,74.8"/>
+	</g>
 </g>
 </svg>
