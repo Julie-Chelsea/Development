@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 350 250" enable-background="new 0 0 350 250" xml:space="preserve">
+<g id="Layer_2">
+	<g id="Layer_1_1_">
+		<rect x="149" y="51.7" fill="#F5F6F6" width="142.7" height="92.2"/>
+		<rect x="149" y="51.7" fill="#F89921" width="142.7" height="30.7"/>
+		<rect x="149" y="113.2" fill="#4FAF4C" width="142.7" height="30.7"/>
+	</g>
+	<g id="Layer_2_1_">
+		<ellipse fill="none" stroke="#273C90" stroke-miterlimit="10" cx="226.2" cy="97.8" rx="14.9" ry="14.7"/>
+		<ellipse fill="#273C90" cx="226.2" cy="97.7" rx="4.2" ry="4.1"/>
+		<line fill="none" stroke="#273C90" stroke-miterlimit="10" x1="226" y1="83.1" x2="226" y2="112.6"/>
+		<line fill="none" stroke="#273C90" stroke-miterlimit="10" x1="211.2" y1="98" x2="241.2" y2="98"/>
+		<line fill="none" stroke="#273C90" stroke-miterlimit="10" x1="236.7" y1="87.3" x2="215.6" y2="108.2"/>
+		<line fill="none" stroke="#273C90" stroke-miterlimit="10" x1="215.7" y1="87.4" x2="236.7" y2="108.2"/>
+		<line fill="none" stroke="#273C90" stroke-miterlimit="10" x1="220.8" y1="84.1" x2="231.7" y2="111.5"/>
+		<line fill="none" stroke="#273C90" stroke-miterlimit="10" x1="212.5" y1="92" x2="239.9" y2="103.7"/>
+		<line fill="none" stroke="#273C90" stroke-miterlimit="10" x1="212.5" y1="103.6" x2="239.9" y2="92"/>
+		<line fill="none" stroke="#273C90" stroke-miterlimit="10" x1="220.5" y1="111.4" x2="231.7" y2="84.1"/>
+		<polygon fill="#273C90" points="226,89.7 226.8,93.8 229.2,90.3 228.3,94.4 231.9,92.1 229.5,95.6 233.7,94.7 230.1,97 234.3,98 
+			230.1,98.6 233.8,101.1 229.5,100.1 232.1,103.6 228.3,101.2 229.3,105.5 226.8,101.8 226,106 225.2,101.8 223,105.4 223.7,101.2 
+			220.4,103.6 222.6,100.1 218.4,101.1 222,98.6 217.8,98 222,97 218.4,94.5 222.6,95.6 220.2,91.9 223.7,94.4 223.2,90.2 
+			225.2,93.8 		"/>
+	</g>
+</g>
+<g id="Layer_3">
+	<g id="XMLID_1_">
+		<g>
+			<path fill="#F5F5F5" d="M151.6,96.1l21.4,9.6c0,0-4.5,21.2,0,25.8c7.6,7.9,92.5,10.2,102,0.3c7.1-7.4,6.1-67,0-76.5
+				c-5.6-8.7-95-4-102,1.4c-6.3,4.8,0,31.7,0,31.7L151.6,96.1z M350,0v250H0V0H350z"/>
+		</g>
+		<g>
+			<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M275,55.4c-5.6-8.7-95-4-102,1.4
+				c-6.3,4.8,0,31.7,0,31.7l-21.4,7.7l21.4,9.6c0,0-4.5,21.2,0,25.8c7.6,7.9,92.5,10.2,102,0.3C282.1,124.5,281.1,64.9,275,55.4z"/>
+		</g>
+	</g>
+</g>
+<g id="Layer_1">
+	<path fill="#212121" d="M23.8,249.9c3.9-50.6,32.7-89.9,67.7-89.9s63.8,39.2,67.7,89.9L23.8,249.9z"/>
+	<circle fill="#212121" cx="91.4" cy="122.9" r="37.2"/>
+</g>
+</svg>

@@ -3,13 +3,9 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 350 250" enable-background="new 0 0 350 250" xml:space="preserve">
 <g id="Layer_2">
-	<g id="Layer_1_1_">
-		<rect x="145" y="47.3" fill="#C52A29" width="143.2" height="31.4"/>
-		<rect x="145" y="110.2" fill="#C52A29" width="143.2" height="31.4"/>
-		<rect x="145" y="78.9" fill="#F5F6F6" width="143.2" height="31.4"/>
-	</g>
-	<g id="Layer_3_1_">
-	</g>
+	<rect x="139.5" y="111.9" fill="#FDE938" width="146" height="34.8"/>
+	<rect x="139.5" y="42.4" fill="#010101" width="146" height="34.8"/>
+	<rect x="139.5" y="77.1" fill="#C52A29" width="146" height="34.8"/>
 </g>
 <g id="Layer_3">
 	<g id="XMLID_1_">
