@@ -1,4 +1,4 @@
-##Greetings, Farewells, & Introductions
+##Greetings & Farewells
 
 ####Introduction to Lesson
 * Slide 1
@@ -44,5 +44,8 @@
   * Its literal meaning is "Sleep", and it is in plain form. You'd say it to friends or siblings.
 
 ####First meetings
-
-####Introduction of 이다 (to be equation) and it's sentence structure
+* When you meet someone for the first time, you usually say hello, but then you may wrap up the conversation by saying ... 
+* Word 9: Nice to meet you.
+ * You'd say this to anyone that you meet for the first time, because you haven't established a relationship with them yet. Regardless of if you both become great friends in the first meeting, or if you're classmates, saying 'Nice to meet you' is commonplace.
+* But wait a minute--in the conversation, you're going to have to let the other person know who you are, right?
+* Right! That brings us to our very first verb and sentence structure, which will be introduced in the next lesson.
