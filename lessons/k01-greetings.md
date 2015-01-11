@@ -26,19 +26,19 @@
 * Word 2: Hi/Hey/Bye 안녕.
   * You'd say this when greeting a friend or sibling--anyone that you have a close relationship with.
   * Note that this can also be used as a way to say bye
-* Word 3: I'm going 갈게.
-  * This is another way to say farewell to friends. This word is in plain form, which is usually used amongst family and friends.
+* Word 3: I'm going 간다.
+  * This is another way to say farewell to friends. This word is in plain form, which is usually used amongst siblings and friends.
   * Plain form, and other forms, will be defined more clearly later. But if you're curious, feel free to check out each of the words' profiles in the vocabulary list [animated graphic showing this] to have words and their forms explained further.
 * Word 4: Bye 잘가
   * Another informal way of saying bye.
 * Word 5: Goodbye (to the one staying) 안녕히 계세요.
-  * This is used with anyone who isn't a friend or family member.
+  * This is used with anyone who isn't a friend or younger family member.
   * Its literal meaning is "stay well" [animate what each word part means].
 * Word 6: Goodbye (to the one leaving) 안녕히 가세요.
-  * Used with anyone who isn't a friend or family member.
+  * Used with anyone who isn't a friend or younger family member.
   * Its literal meaning is "go well"
-* Word 7: Good night (humble) 안녕히 주무십시요.
-  * Good morning, good afternoon, good evening, etc. can all be fulfilled with annyong haseyo, but if you're about to go to sleep, or someone else is going to sleep, you'd say [korean word for goodnight].
+* Word 7: Good night (honorific) 안녕히 주무십시요.
+  * Good morning, good afternoon, good evening, etc. can all be fulfilled with annyonghaseyo, but if you're about to go to sleep, or someone else is going to sleep, you could say 안녕히 주무십시요.
   * This is the formal way of saying it, so you'd say it to an older family member, stranger, etc. There's another way to wish friends or siblings good night, which is coming up next!
 * Word 8: Good night (plain) 자.
   * Its literal meaning is "Sleep", and it is in plain form. You'd say it to friends or siblings.
@@ -49,3 +49,14 @@
  * You'd say this to anyone that you meet for the first time, because you haven't established a relationship with them yet. Regardless of if you both become great friends in the first meeting, or if you're classmates, saying 'Nice to meet you' is commonplace.
 * But wait a minute--in the conversation, you're going to have to let the other person know who you are, right?
 * Right! That brings us to our very first verb and sentence structure, which will be introduced in the next lesson.
+
+Word list
+1. 안녕하세요? = Annyonghaseyo = How are you?/Hello/Good Morning, etc. (honorific)
+2. 안녕 = Ann-yong = Hi/Hey/Bye (plain)
+3. 간다 = Kan-da = I'm going. (plain)
+4. 잘가 = Jal-ga = Bye. (plain)
+5. 안녕히 계세요 = Ann-yong-hi gyeh-se-yo = Goodbye (to the one staying) (honorific)
+6. 안녕히 가세요 = Ann-yong-hi ga-se-yo = Goodbye (to the one leaving) (honorific)
+7. 안녕히 주무십시요 = Ann-yong-hi joo-moo-sib-si-yo = Goodnight (honorific)
+8. 자 = Ja = Sleep (plain)
+9. 반갑습니다 = Ban-gab-sub-ni-da = Nice to meet you (deferential)
