@@ -9,7 +9,7 @@
   * We say "Hi", "Hello", "Hey", "Bye", etc. depending on who we're talking to.
 * Slide 3
   * It's the same concept in Korea.
-  * Words change depending on the context, but there's a more defined system in place in Korean. Verbs and adjectives are be conjugated to express the level of respect that you are giving the subject.
+  * Words change depending on the context, but there's a more defined system in place in Korean. Verbs and adjectives are conjugated to express the level of respect that you are giving the subject.
 * Slide 4
   * For instance, when talking to your friends in Korean, you'd use plain form or polite form, depending on how close you are.
   * But when talking to your teacher, you would use honorific form to show your respect, or polite form as the bare minimum.
