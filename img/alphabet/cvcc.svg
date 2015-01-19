@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 350 250" enable-background="new 0 0 350 250" xml:space="preserve">
+<g id="Layer_2">
+	<rect fill="#EEEEEE" width="350" height="250"/>
+</g>
+<g id="Layer_3" display="none">
+	<rect x="108.1" y="50.4" display="inline" fill="#BFCA33" width="133.8" height="149.2"/>
+</g>
+<rect x="108.1" y="125" fill="#212121" width="66.9" height="74.6"/>
+<rect x="108.1" y="50.4" fill="#212121" width="133.8" height="74.6"/>
+<text transform="matrix(1 0 0 1 125.8503 100.0205)" fill="#FFFFFF" font-family="'Roboto-Black'" font-size="36">C</text>
+<text transform="matrix(0.583 0 0 0.583 148.9831 112.0088)" fill="#FFFFFF" font-family="'Roboto-Black'" font-size="36">1</text>
+<text transform="matrix(1 0 0 1 125.8502 174.0204)" fill="#FFFFFF" font-family="'Roboto-Black'" font-size="36">C</text>
+<text transform="matrix(0.583 0 0 0.583 148.983 186.0087)" fill="#FFFFFF" font-family="'Roboto-Black'" font-size="36">2</text>
+<rect x="175" y="125" fill="#212121" width="66.9" height="74.6"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="108" y1="125" x2="242" y2="125"/>
+<rect x="175" y="50.4" fill="#2D3079" width="66.9" height="73.4"/>
+<text transform="matrix(1 0 0 1 197.9336 100.0203)" fill="#FFFFFF" font-family="'Roboto-Black'" font-size="36">V</text>
+<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="175" y1="50.4" x2="175" y2="125"/>
+<text transform="matrix(1 0 0 1 192.8856 174.0201)" fill="#FFFFFF" font-family="'Roboto-Black'" font-size="36">C</text>
+<text transform="matrix(0.583 0 0 0.583 216.0184 186.0084)" fill="#FFFFFF" font-family="'Roboto-Black'" font-size="36">3</text>
+<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="175" y1="125" x2="175" y2="199.6"/>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 350 250" enable-background="new 0 0 350 250" xml:space="preserve">
+<font horiz-adv-x="2048">
+<!-- Roboto is a trademark of Google. -->
+<!-- Copyright: Copyright 2015 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="Roboto-Black" units-per-em="2048" underline-position="-150" underline-thickness="100"/>
+<missing-glyph horiz-adv-x="510"/>
+<glyph unicode="C" horiz-adv-x="1316" d="M1248,511l2,-6C1243,334 1193,204 1099,114C1004,24 867,-21 688,-21C508,-21 362,34 249,145C136,256 80,399 80,576l0,304C80,1056 134,1200 243,1311C351,1422 492,1477 665,1477C849,1477 990,1431 1087,1338C1184,1245 1239,1114 1252,943l-2,-6l-329,0C916,1032 895,1102 858,1148C820,1194 756,1217 665,1217C588,1217 528,1186 484,1125C440,1063 418,982 418,882l0,-306C418,475 442,394 490,332C538,270 604,239 688,239C769,239 827,261 861,304C895,347 914,416 919,511z"/>
+<glyph unicode="V" horiz-adv-x="1305" d="M637,395l10,-53l6,0l10,49l289,1065l354,0l-472,-1456l-365,0l-470,1456l353,0z"/>
+</font>
+
+	<g id="Layer_2">
+	<rect fill="#EEEEEE" width="350" height="250"/>
+</g>
+<g id="Layer_1_1_">
+	<rect x="108.1" y="50.4" fill="#2D3079" width="133.8" height="149.2"/>
+	<rect x="108.1" y="50.4" fill="#212121" width="66.9" height="149.2"/>
+</g>
+<g id="Layer_4">
+	<text transform="matrix(1 0 0 1 132 135.5205)" fill="#FFFFFF" font-family="'Roboto-Black'" font-size="36">C</text>
+	<text transform="matrix(1 0 0 1 198.5 135.5205)" fill="#FFFFFF" font-family="'Roboto-Black'" font-size="36">V</text>
+	<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="174" y1="50" x2="174" y2="200"/>
+</g>
+</svg>
