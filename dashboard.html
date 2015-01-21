@@ -40,138 +40,33 @@
 </head>
 
 <body fullbleed>
-<core-drawer-panel id="drawerPanel">
-	<core-header-panel drawer id="menu">
-	 	<core-toolbar id="navheader">
- 			<span><h5>Menu</h5></span>
- 		</core-toolbar>
+	<core-drawer-panel id="drawerPanel">
+		<core-header-panel drawer>
+			<core-toolbar id="navheader">
+				<span><h1>Peck</h1></span>
+			</core-toolbar>
+			<core-menu>
+				<h5>User</h5>
+					<core-item label="Current lesson"></core-item>
+				<h5>Peck</h5>
+					<core-item label="About"></core-item>
+					<core-item label="Contact"></core-item>
+					<core-item label="Give feedback"></core-item>
+			</core-menu>
+		</core-header-panel>
 
- 		<core-menu>
- 			<core-item label="Current lesson"></core-item>
- 			<core-item label="Previous lesson"></core-item>
- 			<core-item label="All lessons"></core-item>
- 			<core-item label="About us"></core-item>
- 			<core-item label="Contact"></core-item>
- 			<core-item label="Help"></core-item>
- 		</core-menu>
+		<core-header-panel main>
+			<core-toolbar id="mainheader">
+				<paper-icon-button id="navicon" icon="menu"></paper-icon-button>
+				<div><h4>Peck</h4></div>
+				<span flex></span>
+				<paper-button class="logOut">Log out</paper-button>
+				<paper-icon-button id="account-circle"></paper-icon-button>
+			</core-toolbar>
 
- 		<footer>
-	    	<p><center>Julie Pan & Chelsea Valentine © 2014</center></p>
-	   </footer>
- 	</core-header-panel>
-
- 	<core-header-panel main>
-		<core-toolbar class="waterfall" id="mainheader">
-			<paper-icon-button icon="menu" id="navicon"></paper-icon-button>
-			<div><h5><a href="http://chelseavalentinesday.com/languages" class="linktitle">Dashboard</a></h5></div>
-			<span flex></span>
-			<a href="#resume"><paper-button>Resume</paper-button></a>
-			<a href="#dashboard"><core-item icon="account-circle"></core-item></a>
-		</core-toolbar>
-		<div class="main">
-		  <h2>Welcome back, Name</h2>
-			  <h6>What do you want to learn today?</h6>
-			  <div class="avatar">
-			  	<img src="current mood.png">
-			  	<img src="change avatar button">
-			  </div>
-			  <div class="userDetails">
-			  	<h5 class="username">username</h5>
-			  	<h6 class="level"><b>Lvl 000</b> Level Title</h6>
-			  	<p class="body2">Streak: ### days</p>
-			  	<!--Actions-->
-			  		<a href="#settings"><core-item icon="settings"></core-item></a>
-			  		<a href="#streakcalendar"><core-item icon="perm-contact-cal"></core-item></a>
-			  		<a href="#"><paper-button id="logout">log out</paper-button></a>
-			  </div>
-			  <div class="userDescripton"><p>This is a description of the user. It'll probably be limited to 500 characters or something like that?</p></div>
-		  <hr>
-		  <h3>Your Progress</h3>
-			  <p class="body2">Comment on user's progress</p>
-			  <paper-progress class="userProgress"></paper-progress>
-			  <paper-button class="resume" id="dashResume">Resume</paper-button>
-			  <h6>Current Lesson Title</h6>
-			  <p>50/100</p>
-		  <hr>
-		  <h3>Revision</h3>
-		  	<p class="body2">Comment on amount the user reviews</p>
-		  	<paper-button class="reviewDays" id="mon">
-		  		MON
-		  		<core-item icon="star" class="reviewProgress"></core-item>
-		  	</paper-button>
-		  	<paper-button class="reviewDays" id="tue">
-		  		TUE
-		  	</paper-button>
-		  	<paper-button class="reviewDays" id="wed">
-		  		WED
-		  	</paper-button>
-		  	<paper-button class="reviewDays" id="thu">
-		  		THU
-		  	</paper-button>
-		  	<paper-button class="reviewDays" id="fri">
-		  		FRI
-		  	</paper-button>
-		  	<paper-button class="reviewDays" id="sat">
-		  		SAT
-		  	</paper-button>
-		  	<paper-button class="reviewDays" id="sun">
-		  		SUN
-		  	</paper-button>
-		  	<a href="#link to review"><paper-button class"reviewDays" id="reviewNow">Review</paper-button></a>
-		  	<p>Review streak: 1 day</p>
-		  <hr>
-		  <h3>Score counter</h3>
-		  	<p class="body2">Some comment about the user's progress here.</p>
-		  	<div class="score" id="nice">
-		  		<paper-button class="score">Nice!</paper-button>
-		  		<p class="scoreDescription">99x</p>
-		  	</div>
-		  	<div class="score" id="good">
-		  		<paper-button class="score">Good!!</paper-button>
-		  		<p class="scoreDescription">79x</p>
-		  	</div>
-		  	<div class="score" id="great">
-		  		<paper-button class="score">Great!</paper-button>
-		  		<p class="scoreDescription">59x</p>
-		  	</div>
-		  	<div class="score" id="excellent">
-		  		<paper-button class="score">Excellent!</paper-button>
-		  		<p class="scoreDescription">39x</p>
-		  	</div>
-		  	<div class="score" id="incredible">
-		  		<paper-button class="score">Incredible!</paper-button>
-		  		<p class="scoreDescription">19x</p>
-		  	</div>
-		  	<div class="score" id="godly">
-		  		<paper-button class="score">Godly!</paper-button>
-		  		<p class="scoreDescription">9x</p>
-		  	</div>
-		  <h3>Your achievements</h3>
-		  	<a href="#"><paper-button class="achievements">Achievements</paper-button></a>
-		  <hr>
-		  <h3>Recent activity</h3>
-		  	<div class="activity">
-		  		<img class="activityImage" src="img representing update">
-		  		<p class="body2 activityTitle">Title of activity</p>
-		  		<p class="activityDescription">Short description of activity</p>
-		  		<p class="caption activityDate">Mon, Jan 12, 2014</p>
-		  	</div>
-		  	<div class="activity">
-		  		<img class="activityImage" src="img representing update">
-		  		<p class="body2 activityTitle">Title of activity</p>
-		  		<p class="activityDescription">Short description of activity</p>
-		  		<p class="caption activityDate">Mon, Jan 12, 2014</p>
-		  	</div>
-		  	<div class="activity">
-		  		<img class="activityImage" src="img representing update">
-		  		<p class="body2 activityTitle">Title of activity</p>
-		  		<p class="activityDescription">Short description of activity</p>
-		  		<p class="caption activityDate">Mon, Jan 12, 2014</p>
-		  	</div>
-		  	<a href="#link to all activity">View more activity...</a>
-		</div>
-	</core-header-panel>
+			<div class="content" id="dashboard">
+			</div>
+		</core-header-panel>
 	</core-drawer-panel>
-</core-drawer-panel>
-</body>  
+</body>
 </html>
