@@ -11,13 +11,16 @@
 		height: 100%;
 	}
 
+	#home{
+		background-color: $lightblue500;
+	}
+
 	core-toolbar{
-		background-color: #424242;
+		background-color: $grey900;
 		color: white;
 	}
 
 	core-header-panel{
-
 	}
 
 
