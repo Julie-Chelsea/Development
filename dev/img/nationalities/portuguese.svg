@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 350 250" enable-background="new 0 0 350 250" xml:space="preserve">
+<font horiz-adv-x="2048">
+<!-- Roboto is a trademark of Google. -->
+<!-- Copyright: Copyright 2015 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="Roboto-Bold" units-per-em="2048" underline-position="-150" underline-thickness="100"/>
+<missing-glyph horiz-adv-x="510"/>
+<glyph unicode=" " horiz-adv-x="510"/>
+<glyph unicode="C" horiz-adv-x="1309" d="M1235,495l2,-6C1240,332 1192,208 1094,117C995,25 859,-21 684,-21C509,-21 366,35 257,148C148,261 93,406 93,583l0,289C93,1049 146,1194 253,1307C360,1420 498,1477 669,1477C849,1477 990,1431 1091,1339C1192,1246 1242,1120 1239,961l-2,-6l-284,0C953,1051 930,1125 884,1176C838,1227 766,1252 669,1252C582,1252 512,1217 461,1146C410,1075 384,984 384,874l0,-291C384,472 411,381 465,310C519,239 592,203 684,203C775,203 843,228 887,277C930,326 952,398 952,495z"/>
+<glyph unicode="E" horiz-adv-x="1176" d="M1031,640l-603,0l0,-416l705,0l0,-224l-997,0l0,1456l995,0l0,-225l-703,0l0,-366l603,0z"/>
+<glyph unicode="F" horiz-adv-x="1182" d="M1038,605l-610,0l0,-605l-292,0l0,1456l1004,0l0,-225l-712,0l0,-401l610,0z"/>
+<glyph unicode="I" horiz-adv-x="601" d="M446,0l-292,0l0,1456l292,0z"/>
+<glyph unicode="N" horiz-adv-x="1450" d="M1313,0l-291,0l-588,995l-6,-1l0,-994l-292,0l0,1456l292,0l588,-994l6,1l0,993l291,0z"/>
+<glyph unicode="O" horiz-adv-x="1399" d="M1307,597C1307,418 1251,271 1138,154C1025,37 878,-21 697,-21C518,-21 372,37 260,154C148,271 92,418 92,597l0,262C92,1037 148,1185 260,1302C371,1419 517,1477 696,1477C877,1477 1024,1419 1137,1302C1250,1185 1307,1037 1307,859M1015,861C1015,974 987,1067 930,1140C873,1213 795,1249 696,1249C597,1249 520,1213 465,1141C410,1068 383,975 383,861l0,-264C383,482 411,388 466,315C521,242 598,206 697,206C797,206 875,242 931,315C987,388 1015,482 1015,597z"/>
+<glyph unicode="T" horiz-adv-x="1169" d="M1142,1231l-412,0l0,-1231l-292,0l0,1231l-410,0l0,225l1114,0z"/>
+<glyph unicode="Z" horiz-adv-x="1206" d="M430,224l712,0l0,-224l-1065,0l0,152l692,1079l-691,0l0,225l1047,0l0,-146z"/>
+</font>
+
+	<font horiz-adv-x="2048">
+<!-- Roboto is a trademark of Google. -->
+<!-- Copyright: Copyright 2015 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="Roboto-Black" units-per-em="2048" underline-position="-150" underline-thickness="100"/>
+<missing-glyph horiz-adv-x="510"/>
+<glyph unicode="A" horiz-adv-x="1300" d="M888,283l-459,0l-82,-283l-340,0l470,1456l363,0l471,-1456l-340,0M504,543l309,0l-152,521l-6,0z"/>
+<glyph unicode="O" horiz-adv-x="1400" d="M1318,597C1318,418 1261,270 1148,154C1034,37 885,-21 702,-21C517,-21 368,37 253,154C138,270 81,418 81,597l0,262C81,1038 138,1185 253,1302C367,1419 516,1477 700,1477C883,1477 1031,1419 1146,1302C1261,1185 1318,1038 1318,859M981,861C981,965 957,1050 908,1117C859,1184 789,1217 700,1217C609,1217 539,1184 491,1118C442,1051 418,966 418,861l0,-264C418,492 443,406 492,339C541,272 611,239 702,239C791,239 859,272 908,339C957,406 981,492 981,597z"/>
+<glyph unicode="P" horiz-adv-x="1344" d="M453,499l0,-499l-339,0l0,1456l591,0C878,1456 1015,1412 1116,1324C1217,1235 1268,1120 1268,977C1268,834 1217,718 1116,631C1015,543 878,499 705,499M453,759l252,0C778,759 834,779 873,820C911,860 930,912 930,975C930,1040 911,1093 873,1134C834,1175 778,1196 705,1196l-252,0z"/>
+<glyph unicode="R" horiz-adv-x="1352" d="M453,558l0,-558l-339,0l0,1456l560,0C843,1456 976,1417 1075,1339C1174,1261 1223,1154 1223,1019C1223,944 1203,879 1164,825C1124,771 1065,727 988,693C1077,668 1142,626 1181,567C1220,508 1239,434 1239,346l0,-92C1239,216 1245,173 1256,124C1267,75 1287,41 1315,20l0,-20l-348,0C940,21 923,57 915,110C906,163 902,211 902,256l0,88C902,413 884,466 847,503C810,540 757,558 686,558M453,818l223,0C744,818 796,834 832,865C868,896 886,940 886,998C886,1057 868,1105 831,1142C794,1178 741,1196 674,1196l-221,0z"/>
+<glyph unicode="S" horiz-adv-x="1293" d="M887,386C887,437 870,477 836,505C802,533 741,563 653,594C469,652 333,714 244,781C155,847 111,943 111,1068C111,1190 164,1289 270,1364C375,1439 509,1477 672,1477C833,1477 966,1436 1069,1353C1172,1270 1221,1163 1218,1032l-2,-6l-328,0C888,1084 868,1131 829,1168C790,1204 735,1222 666,1222C598,1222 545,1207 506,1177C467,1147 448,1110 448,1066C448,1023 468,989 507,964C546,938 619,906 726,867C891,818 1016,757 1100,685C1183,613 1225,514 1225,388C1225,260 1175,160 1076,88C976,15 844,-21 679,-21C514,-21 371,21 250,104C129,187 71,306 74,462l2,6l329,0C405,384 428,324 473,288C518,252 587,234 679,234C749,234 801,248 836,276C870,304 887,341 887,386z"/>
+<glyph unicode="T" horiz-adv-x="1153" d="M1130,1196l-384,0l0,-1196l-339,0l0,1196l-381,0l0,260l1104,0z"/>
+</font>
+
+	<g id="Layer_7">
+	<rect fill="#E1F2F1" width="350" height="250"/>
+</g>
+<g id="Layer_2">
+	<rect x="108.9" y="27.5" fill="#04897B" width="7.1" height="195"/>
+	<path fill="#009688" d="M237.1,222.5H115.9v-195h121.2c2.2,0,4,1.8,4,4v187C241.1,220.7,239.4,222.5,237.1,222.5z"/>
+</g>
+<g id="Layer_5">
+	<g id="Layer_1_1_">
+		<rect x="124.5" y="83.6" fill="#4FAF4C" width="36.1" height="77.1"/>
+		<rect x="160.6" y="83.6" fill="#C52A29" width="71.9" height="77.1"/>
+	</g>
+	<g id="Layer_8">
+		<line fill="none" stroke="#FDC117" stroke-width="2" stroke-miterlimit="10" x1="152.5" y1="111.1" x2="145.8" y2="110.3"/>
+		<line fill="none" stroke="#FDC117" stroke-width="2" stroke-miterlimit="10" x1="144.9" y1="110.6" x2="150" y2="115.3"/>
+		<line fill="none" stroke="#FDC117" stroke-width="2" stroke-miterlimit="10" x1="149.5" y1="116" x2="141.3" y2="119.4"/>
+		<line fill="none" stroke="#FDC117" stroke-width="2" stroke-miterlimit="10" x1="141.3" y1="119.4" x2="149.5" y2="123.6"/>
+		<line fill="none" stroke="#FDC117" stroke-width="2" stroke-miterlimit="10" x1="149.5" y1="123.6" x2="142.1" y2="130.2"/>
+		<line fill="none" stroke="#FDC117" stroke-width="2" stroke-miterlimit="10" x1="142.1" y1="130.2" x2="157.8" y2="133.8"/>
+		<g>
+			<line fill="none" stroke="#FDC117" stroke-width="2" stroke-miterlimit="10" x1="169" y1="111.1" x2="175.7" y2="110.3"/>
+			<line fill="none" stroke="#FDC117" stroke-width="2" stroke-miterlimit="10" x1="176.6" y1="110.6" x2="171.5" y2="115.3"/>
+			<line fill="none" stroke="#FDC117" stroke-width="2" stroke-miterlimit="10" x1="172" y1="116" x2="180.2" y2="119.4"/>
+			<line fill="none" stroke="#FDC117" stroke-width="2" stroke-miterlimit="10" x1="180.2" y1="119.4" x2="172" y2="123.6"/>
+			<line fill="none" stroke="#FDC117" stroke-width="2" stroke-miterlimit="10" x1="172" y1="123.6" x2="179.4" y2="130.2"/>
+			<line fill="none" stroke="#FDC117" stroke-width="2" stroke-miterlimit="10" x1="179.4" y1="130.2" x2="164.1" y2="133.8"/>
+		</g>
+	</g>
+	<g id="Layer_9">
+		<circle fill="none" stroke="#FDC117" stroke-width="6" stroke-miterlimit="10" cx="161" cy="123.7" r="20.1"/>
+		<line fill="none" stroke="#FDC117" stroke-width="6" stroke-miterlimit="10" x1="160.6" y1="104" x2="160.6" y2="143.8"/>
+	</g>
+	<g id="Layer_3">
+		<circle fill="none" stroke="#FDE938" stroke-width="5" stroke-miterlimit="10" cx="160.6" cy="123.4" r="20.1"/>
+		<line fill="none" stroke="#FDE938" stroke-width="5" stroke-miterlimit="10" x1="160.8" y1="103.7" x2="160.8" y2="143.5"/>
+	</g>
+	<g id="Layer_7_1_">
+		<line fill="none" stroke="#FDE938" stroke-width="2" stroke-miterlimit="10" x1="152.2" y1="111.1" x2="145.5" y2="110.3"/>
+		<line fill="none" stroke="#FDE938" stroke-width="2" stroke-miterlimit="10" x1="144.6" y1="110.6" x2="149.7" y2="115.3"/>
+		<line fill="none" stroke="#FDE938" stroke-width="2" stroke-miterlimit="10" x1="149.2" y1="116" x2="141" y2="119.4"/>
+		<line fill="none" stroke="#FDE938" stroke-width="2" stroke-miterlimit="10" x1="141" y1="119.4" x2="149.2" y2="123.6"/>
+		<line fill="none" stroke="#FDE938" stroke-width="2" stroke-miterlimit="10" x1="149.2" y1="123.6" x2="141.8" y2="130.2"/>
+		<line fill="none" stroke="#FDE938" stroke-width="2" stroke-miterlimit="10" x1="141.8" y1="130.2" x2="157.5" y2="133.8"/>
+		<g>
+			<line fill="none" stroke="#FDE938" stroke-width="2" stroke-miterlimit="10" x1="168.7" y1="111.1" x2="175.4" y2="110.3"/>
+			<line fill="none" stroke="#FDE938" stroke-width="2" stroke-miterlimit="10" x1="176.3" y1="110.6" x2="171.2" y2="115.3"/>
+			<line fill="none" stroke="#FDE938" stroke-width="2" stroke-miterlimit="10" x1="171.7" y1="116" x2="179.9" y2="119.4"/>
+			<line fill="none" stroke="#FDE938" stroke-width="2" stroke-miterlimit="10" x1="179.9" y1="119.4" x2="171.7" y2="123.6"/>
+			<line fill="none" stroke="#FDE938" stroke-width="2" stroke-miterlimit="10" x1="171.7" y1="123.6" x2="179.1" y2="130.2"/>
+			<line fill="none" stroke="#FDE938" stroke-width="2" stroke-miterlimit="10" x1="179.1" y1="130.2" x2="163.8" y2="133.8"/>
+		</g>
+	</g>
+	<g id="Layer_4">
+		<path fill="#C52A29" stroke="#B72327" stroke-miterlimit="10" d="M173,108.8c0,6.8,0,10.7,0,14.4c-0.1,10.5-7.3,14.1-12.3,14.2
+			c-5.1,0.2-12.6-3.7-12.6-14.3c0-4.2,0-8.8,0-14.3H173z"/>
+	</g>
+	<g id="Layer_5_1_">
+		<path fill="#F5F6F6" d="M168.7,113.2c0,4.3,0,6.9,0,9.3c-0.1,6.8-4.7,9.1-7.9,9.2c-3.3,0.1-8.1-2.4-8.1-9.3c0-2.7,0-5.6,0-9.3
+			H168.7z"/>
+		<rect x="149.9" y="110.3" fill="#FDE938" width="2.2" height="2.2"/>
+		<rect x="149.9" y="123.1" fill="#FDE938" width="2.2" height="2.2"/>
+		<rect x="169.4" y="110.3" fill="#FDE938" width="2.2" height="2.2"/>
+		<rect x="159.7" y="110.2" fill="#FDE938" width="2.2" height="2.2"/>
+		<rect x="169.6" y="123.1" fill="#FDE938" width="2.2" height="2.2"/>
+		<polygon fill="#FDE938" points="155.3,132 153.9,133.5 152.4,132 153.9,130.4 		"/>
+		<polygon fill="#FDE938" points="169.8,131.3 168.2,133 166.7,131.3 168.2,129.7 		"/>
+	</g>
+	<g id="Layer_6_1_">
+		<g>
+			<path fill="#164C9C" d="M162.6,120c0,0.9,0,1.7,0,2.3c0,1.7-1,2.3-1.7,2.3c-0.7,0-1.8-0.6-1.8-2.3c0-0.7,0-1.4,0-2.3H162.6z"/>
+			<rect x="159.4" y="120.3" fill="#F5F6F6" width="0.9" height="1"/>
+			<rect x="161.4" y="122.6" fill="#F5F6F6" width="0.9" height="1"/>
+			<rect x="159.4" y="122.6" fill="#F5F6F6" width="0.9" height="1"/>
+			<rect x="160.4" y="121.4" fill="#F5F6F6" width="0.9" height="1"/>
+			<rect x="161.4" y="120.3" fill="#F5F6F6" width="0.9" height="1"/>
+		</g>
+		<g>
+			<path fill="#164C9C" d="M162.6,113.5c0,0.9,0,1.7,0,2.3c0,1.7-1,2.2-1.7,2.3c-0.7,0-1.8-0.6-1.8-2.3c0-0.7,0-1.3,0-2.2H162.6z"/>
+			<rect x="159.4" y="113.7" fill="#F5F6F6" width="0.9" height="1"/>
+			<rect x="161.4" y="116" fill="#F5F6F6" width="0.9" height="1"/>
+			<rect x="159.4" y="116" fill="#F5F6F6" width="0.9" height="1"/>
+			<rect x="160.4" y="114.9" fill="#F5F6F6" width="0.9" height="1"/>
+			<rect x="161.4" y="113.7" fill="#F5F6F6" width="0.9" height="1"/>
+		</g>
+		<g>
+			<path fill="#164C9C" d="M167.9,120c0,0.9,0,1.7,0,2.3c0,1.7-1,2.3-1.7,2.3c-0.7,0-1.8-0.6-1.8-2.3c0-0.7,0-1.4,0-2.3H167.9z"/>
+			<rect x="164.7" y="120.3" fill="#F5F6F6" width="0.9" height="1"/>
+			<rect x="166.7" y="122.6" fill="#F5F6F6" width="0.9" height="1"/>
+			<rect x="164.7" y="122.6" fill="#F5F6F6" width="0.9" height="1"/>
+			<rect x="165.7" y="121.4" fill="#F5F6F6" width="0.9" height="1"/>
+			<rect x="166.7" y="120.3" fill="#F5F6F6" width="0.9" height="1"/>
+		</g>
+		<g>
+			<path fill="#164C9C" d="M157.1,120c0,0.9,0,1.7,0,2.3c0,1.7-1,2.3-1.7,2.3c-0.7,0-1.8-0.6-1.8-2.3c0-0.7,0-1.4,0-2.3H157.1z"/>
+			<rect x="153.9" y="120.3" fill="#F5F6F6" width="0.9" height="1"/>
+			<rect x="155.9" y="122.6" fill="#F5F6F6" width="0.9" height="1"/>
+			<rect x="153.9" y="122.6" fill="#F5F6F6" width="0.9" height="1"/>
+			<rect x="154.9" y="121.4" fill="#F5F6F6" width="0.9" height="1"/>
+			<rect x="155.9" y="120.3" fill="#F5F6F6" width="0.9" height="1"/>
+		</g>
+		<g>
+			<path fill="#164C9C" d="M162.6,125.9c0,0.9,0,1.7,0,2.3c0,1.7-1,2.3-1.7,2.3c-0.7,0-1.8-0.6-1.8-2.3c0-0.7,0-1.4,0-2.3H162.6z"/>
+			<rect x="159.4" y="126.2" fill="#F5F6F6" width="0.9" height="1"/>
+			<rect x="161.4" y="128.5" fill="#F5F6F6" width="0.9" height="1"/>
+			<rect x="159.4" y="128.5" fill="#F5F6F6" width="0.9" height="1"/>
+			<rect x="160.4" y="127.3" fill="#F5F6F6" width="0.9" height="1"/>
+			<rect x="161.4" y="126.2" fill="#F5F6F6" width="0.9" height="1"/>
+		</g>
+	</g>
+</g>
+<g id="Layer_6" display="none">
+	<rect x="124.5" y="83.6" display="inline" opacity="0.52" fill="#B72025" width="108" height="77.1"/>
+</g>
+<g id="Layer_4_1_">
+	<text transform="matrix(1 0 0 1 124.2784 187.2566)" fill="#FFFFFF" font-family="'Roboto-Bold'" font-size="13">CITIZEN OF</text>
+	<text transform="matrix(1 0 0 1 124.2783 69.8233)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Roboto-Black'" font-size="22" letter-spacing="-1">P</tspan><tspan x="12.5" y="0" fill="#FFFFFF" font-family="'Roboto-Black'" font-size="22">ASSPO</tspan><tspan x="83.7" y="0" fill="#FFFFFF" font-family="'Roboto-Black'" font-size="22">R</tspan><tspan x="97.7" y="0" fill="#FFFFFF" font-family="'Roboto-Black'" font-size="22">T</tspan></text>
+	<g>
+		<g>
+			<path fill="#FFFFFF" d="M195.8,183.3c4.2,6.5,7.4-5.5,9.6-7.9c-0.4-0.2-0.9-0.4-1.3-0.5c-0.1,1.7-1.3,14.8,3.6,13.2
+				c1.4-0.5,1.8-2.6,2.1-3.7c0.4-1.5,0.6-3.1,0.9-4.7c0.1-0.7,0.2-1.5,0.4-2.2c0.3-1.1-0.1-2.3,0.7-0.9c0.9,1.7,1,13,6,9.7
+				c1-0.7,1-2.1,1.8-2.9c1.9-1.9,3.2-0.3,5,0.8c3.4,2.1,5.4-0.2,8.7-0.8c0.9-0.2,0.5-1.6-0.4-1.4c-2.9,0.6-5,2.6-8.5,0.2
+				c-0.9-0.6-1.3-1.7-2.4-2.1c-0.9-0.3-1.6-0.2-2.4,0.4c-1.6,1.1-2,7.1-5.1,2.3c-1.4-2.2-1.1-6-2.2-8.4c-0.2-0.5-0.8-0.4-1.2-0.2
+				c-2,1.6-2,5.7-2.4,8c-0.4,1.8-0.8,6-2.8,2.4c-1.3-2.4-0.5-7.1-0.3-9.7c0-0.6-0.9-1-1.3-0.5c-1.3,1.4-5.1,11.5-7.2,8.2
+				C196.6,181.7,195.3,182.4,195.8,183.3L195.8,183.3z"/>
+		</g>
+	</g>
+</g>
+</svg>
