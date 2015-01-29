@@ -1,0 +1,30 @@
+@import 'fonts';
+@import 'colors';
+@import 'polymerUIElements';
+@import 'polymerPaperElements';
+@import 'polymerCoreElements';
+
+//Layout basics
+	body{
+		position: relative;
+		width: 100%;
+		height: 100%;
+	}
+
+	#home{
+		background-color: $lightblue500;
+	}
+
+	core-toolbar{
+		background-color: $grey900;
+		color: white;
+	}
+
+	core-header-panel{
+	}
+
+
+//
+
+
+//

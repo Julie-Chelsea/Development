@@ -1,0 +1,114 @@
+//Template(s)
+	.font{
+		font-family: 'Roboto', 'Noto', sans-serif;
+		font-weight: 400;
+		color: white;
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+
+/*Standard*/
+	::selection{
+		background: #e4f2fb;
+	}
+
+	h1.display4{
+		@extend .font;
+		font-size: 112px;
+		font-weight: 300;
+		letter-spacing: -8px;
+	}
+
+	h1{
+		@extend .font;
+		font-size: 60px;
+		font-weight: 200;
+		margin-top: 20px;
+	}
+
+	h2{
+		@extend .font;
+		font-size: 45px;
+		margin-top: 20px;
+	}
+
+	h3{
+		@extend .font;
+		font-size: 34px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+
+	h4{
+		@extend .font;
+		font-size: 24px;
+		margin-bottom: 10px;
+	}
+
+	h5{
+		@extend .font;
+		font-size: 20px;
+		font-weight: 500;
+		margin-bottom: 10px;
+	}
+
+	h6{
+		@extend .font;
+		font-size: 15px;
+		margin-bottom: 5px;
+	}
+
+	p{
+		@extend .font;
+		font-size: 13px;
+		margin-bottom: 15px;
+		line-height: 200%;
+		max-width: 600px;
+	}
+
+	p.body2{
+		font-weight: 500;
+	}
+
+	p.caption{
+		font-size: 12px;
+		opacity: 0.87;
+	}
+
+	footer{
+		@extend .font;
+		font-size: 12px;
+		opacity: 0.54;
+		margin-bottom: 30px;
+	}
+
+/*Standard links*/
+	a:link, a:visited{
+		color: white;
+		text-decoration: none;
+	}
+
+	a:hover, a:active{
+		color: white;
+		text-decoration: underline;
+	}
+
+	//I'm a link, but am I really?
+		a.no:link, a.no:visited{
+		}
+
+		a.no:hover, a.no:active{
+			text-decoration: none;
+		}
+
+/*Lists*/
+	ul, ol{
+		@extend .font;
+		font-size: 13px;
+		margin-bottom: 20px;
+	}
+
+	li{
+		margin-bottom: 10px;
+		max-width: 600px;
+	}
