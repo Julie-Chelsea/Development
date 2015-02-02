@@ -26,7 +26,7 @@ class Word (models.Model):
 	definition_two = models.CharField ('Definition 2', max_length = 200, default='', blank=True)
 	def_3_exist = models.BooleanField('Another definition?', default = False, blank=True)
 	definition_three = models.CharField ('Definition 3', max_length = 200, default='', blank=True)
-	speech_level = models.CharField (max_length = 200, default='Dictionary')
+	speech_level = models.CharField (max_length = 200, default='-')
 	img = models.URLField(blank=True)
 	help_text = "URL default format: img/lesson/k001/01.svg"
 	def __str__ (self):

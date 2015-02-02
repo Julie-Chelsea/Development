@@ -61,7 +61,7 @@
 
 ######Lesson list
 1. 한국 = Han-gook = South Korea
-2. 대한민국 = Republic of South Korea
+2. 대한민국 = Dae-han-min-guk = Republic of South Korea
 3. 미국 = Mi-gook = United States
 4. 영국 = Yong-gook = United Kingdom
 5. 중국 = Joong-gook = China

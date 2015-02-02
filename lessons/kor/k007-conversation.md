@@ -18,4 +18,4 @@
 7. 알아요 = A-rah-yo = I know (polite)
 8. 모라요  = Mo-la-yo = I don't know, I have no idea (polite)
 9. 헐 = Heol = OMG, Wow, (expression of mild shock or surpise) (plain)
-10. 오모 = O-mo = Oh my, gasp (plain)
+10. 어머 = O-mo = Oh my, gasp (plain)
