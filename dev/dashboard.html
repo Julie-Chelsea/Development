@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!--Meta-->
+		<meta charset="utf-8">
+		<title>Dashboard</title>
+		<meta name="description" content="Learn languages, yo.">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="apple-moble-web-app-capable" content="yes">
+		<meta name="mobile-web-app-capable" content="yes">
+		<link rel="author" href="https://plus.google.com/103740964323141031478/"/> <!--Get Julie's too-->
+
+		<!--Facebook-->
+			<meta property="og:title" content="Languages">
+			<meta property="og:type" content="website">
+			<meta property="og:image" content="">
+			<meta property="og:url" content="http://chelseavalentinesday.com/layout"/>
+			<meta property="og:description" content="Learn languages, yo."/>
+			<meta property="fb:admins" content="chelsea.valentine.1610"/> <!--Get Julie's too-->
+
+		<!--Twitter-->
+			<meta name="twitter:card" content="summary">
+			<meta name="twitter:url" content="http://chelseavalentinesday.com/languages">
+			<meta name="twitter:title" content="Languages">
+			<meta name="twitter: description" content="Learn languages, yo.">
+			<meta name="twitter:image" content="">
+
+	<!--Styling-->
+		<link rel="import" href="components/polymer/polymer.html">
+		<link rel="import" href="components/polymer-ui-card/polymer-ui-card.html">
+		<link rel="import" href="components/core-elements/core-elements.html">
+		<link rel="import" href="components/paper-elements/paper-elements.html">
+		<link rel="stylesheet" type="text/css" href="layout/style.css">
+		<link rel="icon" href="FAVICON HERE" type="image/png" sizes="16x16">
+		<script src="layout/js.js"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<style>
+	
+	</style>
+</head>
+
+<body fullbleed>
+	<core-drawer-panel id="drawerPanel">
+		<core-header-panel drawer>
+			<core-toolbar id="navheader">
+				<span><h1>Peck</h1></span>
+			</core-toolbar>
+			<core-menu>
+				<h5>User</h5>
+					<core-item label="Current lesson"></core-item>
+				<h5>Peck</h5>
+					<core-item label="About"></core-item>
+					<core-item label="Contact"></core-item>
+					<core-item label="Give feedback"></core-item>
+			</core-menu>
+		</core-header-panel>
+
+		<core-header-panel main>
+			<core-toolbar id="mainheader">
+				<paper-icon-button id="navicon" icon="menu"></paper-icon-button>
+				<div><h4>Peck</h4></div>
+				<span flex></span>
+				<paper-button class="logOut">Log out</paper-button>
+				<paper-icon-button id="account-circle"></paper-icon-button>
+			</core-toolbar>
+
+			<div class="content" id="dashboard">
+			</div>
+		</core-header-panel>
+	</core-drawer-panel>
+</body>
+</html>
